@@ -61,6 +61,8 @@ foreach (var carrerCont in carrers)
     student.CreateSubscription(paypalsubscription);
     student.CreateSubscription(pagarmesubscription);
 
+    
+
 
 
 }
